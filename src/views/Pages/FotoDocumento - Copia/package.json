@@ -1,0 +1,6 @@
+{
+  "name": "DeclaracaoResidencia",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DeclaracaoResidencia.js"
+}

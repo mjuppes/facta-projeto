@@ -1,0 +1,6 @@
+{
+  "name": "CedulaFactaMex",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CedulaFactaMex.js"
+}

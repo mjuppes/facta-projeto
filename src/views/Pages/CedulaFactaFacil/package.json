@@ -1,0 +1,6 @@
+{
+  "name": "CedulaFactaFacil",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CedulaFactaFacil.js"
+}

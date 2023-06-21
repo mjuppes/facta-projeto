@@ -1,0 +1,6 @@
+{
+  "name": "FaceTest",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./FaceTest.js"
+}

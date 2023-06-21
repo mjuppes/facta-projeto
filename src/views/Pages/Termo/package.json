@@ -1,0 +1,6 @@
+{
+  "name": "Termo",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Termo.js"
+}

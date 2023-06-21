@@ -1,0 +1,6 @@
+{
+  "name": "CedulaFactaIpe",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CedulaFactaIpe.js"
+}

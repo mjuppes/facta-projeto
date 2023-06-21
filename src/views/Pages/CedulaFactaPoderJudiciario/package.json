@@ -1,0 +1,6 @@
+{
+  "name": "CedulaFactaPoderJudiciario",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CedulaFactaPoderJudiciario.js"
+}

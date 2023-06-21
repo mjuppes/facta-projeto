@@ -1,0 +1,6 @@
+{
+  "name": "DadosEndereco",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DadosEndereco.js"
+}

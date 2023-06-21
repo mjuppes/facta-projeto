@@ -1,0 +1,6 @@
+{
+  "name": "FactaFgts",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./FactaFgts.js"
+}

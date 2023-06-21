@@ -1,0 +1,6 @@
+{
+  "name": "DocTest",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DocTest.js"
+}

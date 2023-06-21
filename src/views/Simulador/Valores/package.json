@@ -1,0 +1,6 @@
+{
+  "name": "Valores",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Valores.js"
+}

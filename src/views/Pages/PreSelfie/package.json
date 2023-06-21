@@ -1,0 +1,6 @@
+{
+  "name": "PreSelfie",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PreSelfie.js"
+}

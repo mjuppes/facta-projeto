@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui, shrink-to-fit=no">
+    <meta name="description" content="Facta Financeira - Sistema Online">
+    <meta name="author" content="Facta Financeira">
+    <meta name="keyword" content="Facta Financeira,Formalização,Empréstimo">
+    <title>Facta Financeira</title>
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118965717-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      // Shared ID
+      gtag('config', 'UA-118965717-3');
+      // React.js ID
+      gtag('config', 'UA-118965717-6');
+    </script>
+    <script>
+      // load this bundle only for browsers without MediaRecorder support
+      if (!window.MediaRecorder) {
+        document.write(
+          decodeURI('%3Cscript defer src="/polyfill.js">%3C/script>')
+        )
+      }
+    </script>
+  </head>
+
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+  </body>
+</html>

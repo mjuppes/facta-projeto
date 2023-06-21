@@ -1,0 +1,6 @@
+{
+  "name": "FotoDocumento",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./FotoDocumento.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Digital",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Digital.js"
+}
